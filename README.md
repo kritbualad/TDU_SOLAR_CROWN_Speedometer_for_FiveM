@@ -14,7 +14,7 @@
 
 ![Screenshot](https://i.ibb.co/NrvQhpN/TDUSCRelease-Five-M.jpg)
 
-To use labels, go to the **resources** folder, find the add-on vehicle mod name you added, then find **vehicles.meta** and search for **vehicleClass**.
+How to use labels, go to the **resources** folder, find the add-on vehicle mod name you added, then find **vehicles.meta** and search for **vehicleClass**.
 
 example
 `<vehicleClass>VC_NAME</vehicleClass>`
