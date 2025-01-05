@@ -1,3 +1,6 @@
+**Original Mods**
+[**https://forum.cfx.re/t/release-sexyspeedometer-tacho-dashboard-elements-skins-fuel/39772**](https://forum.cfx.re/t/release-sexyspeedometer-tacho-dashboard-elements-skins-fuel/39772)
+
 # Test Drive Unlimited/TDU Solar Crown Speedometer for FiveM
 
 ![Screenshot](https://i.ibb.co/gtPKPYh/TDUSCXFive-M.png)
